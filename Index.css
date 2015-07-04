@@ -1,0 +1,49 @@
+
+
+.ul
+{
+    list-style-type: circle;
+    color: black;
+}
+.li {
+	color:black;
+	font-size: 18px;
+}
+.image {
+	text-align: center;
+}
+.image h2 {
+	color: blue;
+}
+.Work-experience {
+	text-align: center;
+	border-bottom: solid black;
+	font-size: 16px;
+	text-indent: 40px;
+	color:black;
+}
+.info {
+	font-size: 18px;
+	text-indent: 40px;
+	color: black;
+}
+.About-me { 
+	color: black;
+	margin-left: 40px;
+	font-size: 18px;
+}
+.Mcdonalds {
+	color: black;
+	font-size: 16px;
+	text-indent: 40px;
+
+}
+.Target {
+	color: black;
+	font-size:18px;
+	text-indent: 40px;
+}
+.Target h3 {
+	color:black;
+	text-indent: 40px;
+}
